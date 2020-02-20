@@ -1,26 +1,20 @@
 [
   {
-    "name": "毎日更新",
-    "author": "無名",
-    "url": "https://api.dujin.org/bing/1920.php",
-    "thumbUrl": "http://img5.adesk.com/5dd661f0e7bce75ea7b31696?imageMogr2/thumbnail/!350x540r/gravity/Center/crop/350x540"
+    "name": "Flatme_1",
+    "author": "喵粤 MeowJyut",
+    "url": "https://raw.githubusercontent.com/DNA-DS/miujyu.github.io/master/Flatme-sources/flatme_wallpaper.png",
+    "thumbUrl": "https://raw.githubusercontent.com/DNA-DS/miujyu.github.io/master/Flatme-sources/flatme_wallpaper_thumb_2.png"
   },
   {
     "name": "Cat",
-    "author": "Awesome",
+    "author": "喵粤 MeowJyut",
     "url": "http://img5.adesk.com/5dd661f0e7bce75ea7b31696",
     "thumbUrl": "http://img5.adesk.com/5dd661f0e7bce75ea7b31696?imageMogr2/thumbnail/!350x540r/gravity/Center/crop/350x540"
   },
   {
-    "name": "Coral Coast",
-    "author": "Seaside Feel",
-    "url": "https://images.unsplash.com/photo-1564639566047-dc4a1b86a90f?ixlib=rb-1.2.1&q=80",
-    "thumbUrl": "https://images.unsplash.com/photo-1564639566047-dc4a1b86a90f?ixlib=rb-1.2.1&q=80&w=200"
+    "name": "Flatme_2",
+    "author": "喵粤 MeowJyut",
+    "url": "https://raw.githubusercontent.com/DNA-DS/miujyu.github.io/master/Flatme-sources/flatme_wallpaper_1.png",
+    "thumbUrl": "https://raw.githubusercontent.com/DNA-DS/miujyu.github.io/master/Flatme-sources/flatme_wallpaper_thumb_1.png"
   },
-  {
-    "name": "Duotone Dahlias",
-    "author": "Annie Spratt",
-    "url": "https://images.unsplash.com/photo-1513682322455-ea8b2d81d418?ixlib=rb-1.2.1&q=80",
-    "thumbUrl": "https://images.unsplash.com/photo-1513682322455-ea8b2d81d418?ixlib=rb-1.2.1&q=80&w=200"
-  }
 ]
